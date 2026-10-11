@@ -4,11 +4,11 @@
 
 ### Infrastructure Lab
 
-Infrastructure, Virtualization, and Windows Server Lab
+MikroTik RB450G, Proxmox VE, and Windows Server Lab
 
 [View Lab →](https://github.com/chanathip-awc/infrastructure-lab)
 
-### Network Lab
+### Network Lab (GNS3)
 
 Cisco Switching, VLAN, HSRP, OSPF, and FortiGate Lab
 
