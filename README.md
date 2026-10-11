@@ -10,7 +10,7 @@ MikroTik RB450G, Proxmox VE, and Windows Server Lab
 
 ### Network Lab (GNS3)
 
-Cisco Switching, VLAN, HSRP, OSPF, and FortiGate Lab
+Cisco Switching, VLAN, Trunking, EtherChannel (LACP), SVI, HSRP, OSPF, DHCP Relay, and FortiGate Firewall
 
 [View Lab →](https://github.com/chanathip-awc/network-lab)
 
