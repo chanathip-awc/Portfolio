@@ -25,3 +25,10 @@ Cisco Switching, VLAN, Trunking, EtherChannel (LACP), SVI, HSRP, OSPF, DHCP Rela
 ### Fortinet Certified Associate in Cybersecurity
 
 [View Certificate →](certifications/fortinet-fca.md)
+
+---
+
+## Contact
+
+- Email: [chanathip.artwichian@gmail.com](mailto:chanathip.artwichian@gmail.com)
+- Phone: 095-980-7330
